@@ -1,0 +1,10 @@
+.skills-desc {
+    font-size: 1em;
+    margin-bottom: 3rem;
+}
+
+@media screen and (min-width: 600px) {
+    p a {
+        font-size: 1em;
+    }
+}

@@ -1,0 +1,19 @@
+#skills-desc {
+    margin: 4rem 0;
+    font-size: 1em;
+}
+
+.skills-wrapper {
+    max-width: 540px;
+}
+
+@media screen and (min-width: 600px) {
+    .skills-wrapper {
+        max-width: 600px;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+    }
+}
